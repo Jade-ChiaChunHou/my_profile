@@ -1,8 +1,8 @@
 # My website
 
-- *Website*:
+- **Website**:
 https://jade-chiachunhou.github.io/my_website/
-- *Linkedin*: 
+- **Linkedin**: 
 https://www.linkedin.com/in/chia-chun-hou-%E4%BE%AF%E4%BD%B3%E5%90%9B-b999859a/
 
 ## Introduction
