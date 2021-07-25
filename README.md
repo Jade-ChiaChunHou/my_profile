@@ -3,15 +3,16 @@
 - **Website**:
 https://jade-chiachunhou.github.io/my_website/
 - **Linkedin**: 
-https://www.linkedin.com/in/chia-chun-hou-%E4%BE%AF%E4%BD%B3%E5%90%9B-b999859a/
+https://www.linkedin.com/in/jade-hou/
 
 ## Introduction
-This is Jade. I love to do data analysis. I'm a Data Engineer in Micron. Also I'm currently taking UC Berkeley Online Data Science Master (MIDS) Program.
+This is Jade. I love to do data analysis. I'm a Data Engineer in Micron.
 
 ## Skills
+- Data Engineering
 - Machine Learning
 - Deep Learning
-- Data Engineering
+
 
 ## Programming languages
 - Python 
